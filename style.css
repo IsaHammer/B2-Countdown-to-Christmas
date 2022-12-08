@@ -1,0 +1,16 @@
+html, body {
+  background: #00aa00;
+  height: 100%;
+  width: 100%;
+}
+
+#centeredText{
+  color: #aaffaa;
+  text-align: center;
+}
+
+#demo{
+  color: #aaffaa;
+  text-align: center;
+  font-size: 75px;
+}
